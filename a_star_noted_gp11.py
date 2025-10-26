@@ -341,11 +341,11 @@ def main():
     print(__file__ + " start the A star algorithm demo !!") # print simple notes
 
     # start and goal position
-    sx = 0.0  # [m]
-    sy = 0.0  # [m]
-    gx = 50.0  # [m]
-    gy = 50.0  # [m]
-    grid_size = 1  # [m]
+    sx = 50.0  # [m]
+    sy = 50.0  # [m]
+    gx = 0.0  # [m]
+    gy = 0.0  # [m]
+    grid_size = 1.0  # [m]
     robot_radius = 1.0  # [m]
 
     # set obstacle positions for group 8
