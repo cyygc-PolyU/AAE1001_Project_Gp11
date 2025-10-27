@@ -26,4 +26,5 @@ As the aviation industry expands, it must continually evolve to meet the demands
 ## Reflections
 
 ## Contacts
+- Chen Yat Yeung: 25068994d@connect.polyu.hk
 - Wong Shing Hung Philip: 25018939d@connect.polyu.hk
