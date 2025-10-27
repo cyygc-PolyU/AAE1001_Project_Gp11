@@ -1,8 +1,8 @@
-<center># PolyU AAE1001 GitHub Project Group11</center>
+# PolyU AAE1001 GitHub Project Group11
 ## Members Name
-- CHEN Yat Yeung
-- INDRAJAYA Agatha Valencia
-- LI Qiurui
-- NG Man Lok
-- TSANG Hon Fung
-- WONG Shing Hung Philip
+- Leader: CHEN Yat Yeung
+- Member: INDRAJAYA Agatha Valencia
+- Member: LI Qiurui
+- Member: NG Man Lok
+- Member: TSANG Hon Fung
+- Member: WONG Shing Hung Philip
